@@ -8,6 +8,7 @@
 2. Make a new branch to work on. Its usually not a good idea to work on the master branch.
 
 `git checkout -b BRANCH_NAME`
+
 3. Make some edits to the files.
 4. Once completed, add files to your staging area using
 
