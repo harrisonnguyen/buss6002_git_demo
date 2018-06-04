@@ -1,4 +1,4 @@
-def sum(x):
+def sum(x, y):
     """ This function takes a list
         of numbers and sums them
     args:
@@ -6,6 +6,6 @@ def sum(x):
     returns:
         sum of x
     """
+    z = x + y
 
-
-    return 0
+    return z
