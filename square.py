@@ -6,6 +6,7 @@ def square(x):
     returns:
         square of x
     """
+    #if type(x)=='float':
+    
+    return x*x
 
-
-    return 0
